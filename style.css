@@ -19,7 +19,7 @@ body{
     display: grid;
     place-content: center ;
     font-family: var(--fuenteP);
-    background-color: var(--GrayishBlue);
+    background-color: hsl(234, 27%, 20%);
    
 }
 .container{
@@ -143,5 +143,5 @@ h2{
 
 
 
-.attribution { font-size: 11px; text-align: center; }
+.attribution { color: white; font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
